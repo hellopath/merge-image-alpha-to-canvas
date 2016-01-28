@@ -1,0 +1,26 @@
+{
+  "name": "merge-image-alpha-to-canvas",
+  "version": "1.0.0",
+  "description": "A simple solution to merge image and alpha, so to produce a light transparent canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hellopath@github.com/hellopath/merge-image-alpha-to-canvas.git"
+  },
+  "keywords": [
+    "alpha",
+    "image",
+    "canvas",
+    "merge",
+    "transparent"
+  ],
+  "author": "hellopath <contact@pa-th.com> (http://pa-th.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellopath/merge-image-alpha-to-canvas/issues"
+  },
+  "homepage": "https://github.com/hellopath/merge-image-alpha-to-canvas#readme"
+}
